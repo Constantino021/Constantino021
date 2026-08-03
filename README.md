@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Constantino 👋
 
-<!--
-**Constantino021/Constantino021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity student | Angola 🇦🇴
+🎯 Trilha: eJPT → PNPT → OSCP
+🐧 Fedora Linux daily driver | Kali VM (QEMU/KVM)
 
-Here are some ideas to get you started:
+## O que eu ando fazendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Construindo meu próprio lab de pentest com MCP servers integrados ao Claude Desktop
+- Escrevendo relatórios profissionais de vulnerabilidade (XSS, bypass de lógica de negócio, ECDSA)
+- Aprendendo inglês técnico, um write-up de cada vez
+- Estudando pra virar um dos ou o melhor cybersegurança em Angola — mercado ainda verde, oportunidade gigante
+
+## 🛠️ Stack / Ferramentas
+
+`nmap` `hydra` `wireshark` `sqlmap` `hashcat` `CyberChef` `Burp Suite` `Python`
+
+## 📫 Contato
+
+- GitHub: [@Constantino021](https://github.com/Constantino021)
+
+---
+*"Blue Team at school, Red Team at home."*
