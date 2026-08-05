@@ -18,8 +18,7 @@
 ## 📫 Contato
 
 - GitHub: [@Constantino021](https://github.com/Constantino021)
+- Portfolio: [@Constantino021](https://constantino021.github.io)
 
 ---
 *"Blue Team at school, Red Team at home."*
-
-- Portfolio: [@Constantino021](https://constantino021.github.io)
